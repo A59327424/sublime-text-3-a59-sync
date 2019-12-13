@@ -1,0 +1,17 @@
+{
+	"bootstrapped": true,
+	"font_face": "Consolas",
+	"font_size": 12,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"DocBlockr",
+		"Gist",
+		"Package Control",
+		"Sass",
+		"SublimeLinter",
+		"Terminus"
+	]
+}

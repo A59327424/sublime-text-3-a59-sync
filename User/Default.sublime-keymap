@@ -1,0 +1,4 @@
+[
+	// Open terminal
+	{ "keys": ["command+option+t"], "command": "terminal_view_open" },
+]

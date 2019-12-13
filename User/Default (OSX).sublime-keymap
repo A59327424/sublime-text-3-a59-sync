@@ -1,0 +1,9 @@
+[
+	{ 
+        "keys": ["command+option+t"], "command": "terminus_open", "args": {
+            "config_name": "Default",
+            "cwd": "${file_path:${folder}/Master}"
+        	}
+    },
+    { "keys": ["command+k"], "command": "toggle_side_bar" },
+]
