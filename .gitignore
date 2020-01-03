@@ -16,3 +16,4 @@ Gist.sublime-settings
 # Exeptions
 !.gitignore
 !/User/
+!README.md
