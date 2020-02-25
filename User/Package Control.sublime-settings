@@ -9,7 +9,9 @@
 	[
 		"DocBlockr",
 		"Gist",
+		"HTML-CSS-JS Prettify",
 		"Package Control",
+		"Prevent Duplicate Windows",
 		"Sass",
 		"SublimeLinter",
 		"Terminus"
