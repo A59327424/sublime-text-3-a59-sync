@@ -1,0 +1,13 @@
+{
+    "global_file_rules":
+    {
+        // Be sure to include all of the `html`, `css`, `js` and `json` keys in your user settings
+        // if you want to be able to prettify the default files as well.
+        "html":
+        {
+            "allowed_file_extensions": ["htm", "html", "xhtml", "shtml", "xml", "svg", "vue", "php"],
+            "allowed_file_syntaxes": ["html", "xml", "vue", "php"],
+            "disallowed_file_patterns": []
+        }
+    }
+}

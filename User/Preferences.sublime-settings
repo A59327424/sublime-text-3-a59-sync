@@ -1,8 +1,12 @@
 {
 	"color_scheme": "Packages/User/Dreamweaver/Dreamweaver.tmTheme",
 	"draw_white_space": "all",
+<<<<<<< HEAD
 	"font_size": 11,
 	"hot_exit": false,
+=======
+	"font_size": 12,
+>>>>>>> 879cdfd2e9a12207afc8efd293af4ab51dc2185b
 	"ignored_packages":
 	[
 		"Vintage"
