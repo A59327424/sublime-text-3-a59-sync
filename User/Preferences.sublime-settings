@@ -1,6 +1,8 @@
 {
 	"color_scheme": "Packages/User/Dreamweaver/Dreamweaver.tmTheme",
-	"font_size": 12,
+	"draw_white_space": "all",
+	"font_size": 11,
+	"hot_exit": false,
 	"ignored_packages":
 	[
 		"Vintage"
@@ -8,6 +10,5 @@
 	"scroll_past_end": true,
 	"tab_size": 2,
 	"theme": "Default.sublime-theme",
-	"word_wrap": true,
-	"draw_white_space": "all"
+	"word_wrap": true
 }
