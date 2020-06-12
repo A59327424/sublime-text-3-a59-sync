@@ -3,6 +3,7 @@
 	"draw_white_space": "all",
 	"font_size": 8,
 	"hot_exit": false,
+	"show_full_path": true,
 	"ignored_packages":
 	[
 		"Vintage"
