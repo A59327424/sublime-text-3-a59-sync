@@ -1,12 +1,14 @@
 {
 	"color_scheme": "Packages/User/Dreamweaver/Dreamweaver.tmTheme",
 	"draw_white_space": "all",
-	"font_size": 8,
+	"font_size": 12,
 	"hot_exit": false,
-	"show_full_path": true,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
-	"theme": "Default.sublime-theme"
+	"show_full_path": true,
+	"tab_size": 2,
+	"theme": "Default.sublime-theme",
+	"translate_tabs_to_spaces": true
 }
